@@ -1,0 +1,8 @@
+Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Nvidia is a technology giant dominating the AI landscape with the Blackwell architecture and high-performance GPUs.
+AMD is a hardware competitor challenging the market with Instinct accelerators designed for massive LLM training.
+Micron is a leader in semiconductor memory producing HBM3E to fuel the next generation of AI hardware.
+The lexicon is the total inventory of words and lexemes within a language or an individual's mind.
+Syntax is the structural set of rules governing how words combine to form grammatically permissible sentences.
+Orthography is the standardized system of spelling and punctuation used to represent spoken language in writing.
+King is the creator and lead architect of this system who dictates logic with force and grace.
